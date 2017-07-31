@@ -21,16 +21,16 @@ TA:
 #### <a name="25"></a> Monday 25 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15    | Titus Brown | Candle House |
-| 10:30 | Scott Dawson |    Candle House |
-| 13:00 | [Genome Anntoation]
+| 09:15    | [Titus Brown: Why Sequence Genomes?](https://hackmd.io/IwQwbARgDATAJgMwLQFYAcBTFSAsHxJoQbLADMaAnAOw3U5mVxA=?both) | Candle House |
+| 10:30 | [Scott Dawson: ]()  |    Candle House |
+| 13:00 | [Genome Annotation: RAST] | Fish Bowl | 
 
 #### <a name="26"></a> Tuesday 26 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:15      | _Lecture_    |  Candle House |
 | 10:30 | _Lecture_   | Candle House   |
-| 13:00 | _Tutorial_  | Fish Bowl   |
+| 13:00 | _Tutorial_: Intro Unix Commandline | Fish Bowl   |
 
 #### <a name="27"></a> Wednesday 27 July 2016
 | Time       | Activity        | Location  |
@@ -45,11 +45,11 @@ TA:
 | 09:15      | _Lecture_:   |  Candle House |
 | 10:30 | _Lecture_:   | Candle House |
 | 13:30 | _Tutorial_:  | Fishbowl |
-| 15:30 | _Tutorial_:   | Lab   |
+| 15:30 | _Tutorial_:   | Fishbowl   |
 
 #### <a name="26"></a> Friday 29 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:15      | _Lecture_: anvi'o for visualization     |  Candle House |
 | 10:30 | _Lecture_:    | Fishbowl   |
-| 15:30 | _Tutorial_:  | Fish Bowl   |
+| 15:30 | _Tutorial_: R for statistics & some RNAseq. | Fish Bowl   |
