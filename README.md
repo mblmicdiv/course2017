@@ -22,7 +22,7 @@ TA:
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:15    | [Titus Brown: Why Sequence Genomes?](https://hackmd.io/IwQwbARgDATAJgMwLQFYAcBTFSAsHxJoQbLADMaAnAOw3U5mVxA=?both) | Candle House |
-| 10:30 | [Scott Dawson: ]()  |    Candle House |
+| 10:30 | [Scott Dawson: Phylogenies]()  |    Candle House |
 | 13:00 | [Genome Annotation: RAST] | Fish Bowl | 
 
 #### <a name="26"></a> Tuesday 26 July 2016
