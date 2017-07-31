@@ -2,12 +2,12 @@
 Microbial Diversity @MBL, Genomics lessons week 4
 
 Instructors
-* Titus Brown
-* Scott Dawson
-* Tracy Teal
+* [Titus Brown](http://ivory.idyll.org/blog/)
+* [Scott Dawson](http://dawsonlab.ucdavis.edu/DawsonLab/Welcome.html)
+* [Tracy Teal](http://www.datacarpentry.org/people/)
 
 TA:
-* Lisa Johnson Cohen
+* [Lisa Johnson Cohen](https://monsterbashseq.wordpress.com/)
 
 ### Week 4
 
