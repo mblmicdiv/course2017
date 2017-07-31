@@ -7,7 +7,7 @@ Instructors
 * [Tracy Teal](http://www.datacarpentry.org/people/)
 
 TA:
-* [Lisa Johnson Cohen](https://monsterbashseq.wordpress.com/)
+* [Lisa Johnson Cohen](https://twitter.com/monsterbashseq)
 
 ### Week 4
 
