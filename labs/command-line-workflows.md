@@ -18,10 +18,10 @@ In this lesson we'll go through an introduction to what sequencing is, learn abo
 ### I. Using cloud computing for fun and genomic data
 **Goals:** Discuss needs for cloud computing and what are some options. Connect to Amazon AWS resources using ssh. Provide documentation on how to get access to cloud computing resources.
 
-**Materials:**  [Introduction to cloud computing](https://data-lessons.github.io/cloud-genomics/02-why-cloud-computing/)  
+**Materials:**  [Introduction to cloud computing](http://www.datacarpentry.org/cloud-genomics/02-why-cloud-computing/)  
 
 **Additional resources:**  
-- [Setting up instances on Amazon AWS and CyVerse for remote computing](https://github.com/datacarpentry/cloud-genomics/blob/gh-pages/lessons/1.logging-onto-cloud.md)
+- [Setting up instances on Amazon AWS and CyVerse for remote computing](http://www.datacarpentry.org/cloud-genomics/discuss/)
 - [JetStream for remote computing](https://angus.readthedocs.io/en/2017/jetstream/boot.html)
 
 ### II. The genomic data file type and the command line
@@ -30,7 +30,7 @@ In this lesson we'll go through an introduction to what sequencing is, learn abo
 **Materials:**  
 - [Revisiting navigating at the command line](http://www.datacarpentry.org/shell-genomics/01-introduction/)
 - [Revisiting the file system](http://www.datacarpentry.org/shell-genomics/02-the-filesystem/)
-- [Examining FASTQ files](http://www.datacarpentry.org/shell-genomics/03-working-with-files/)
+- [Examining FASTQ files](http://www.datacarpentry.org/shell-genomics/04-working-with-files/)
 
 **Additional resources:**  
 - [Data Carpentry Genomics shell lesson](http://www.datacarpentry.org/shell-genomics/)
