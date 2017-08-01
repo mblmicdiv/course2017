@@ -29,7 +29,7 @@ TA:
 #### <a name="26"></a> Tuesday 1 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | Lecture: Tracy Teal    |  Candle House |
+| 09:15      | Tracy Teal: ["Soil microbial communities: A study with metagenomics"](presentations/MBL_metagenomics.pdf)    |  Candle House |
 | 10:30 | [Titus Brown: "Shotgun metagenome assembly: how well does it work?"](presentations/2017-mbl-micdiv-assembly.pptx.pdf)   | Candle House   |
 | 1:00 - 3:00 | [Lab: UNIX command line, scripting, and automation.]() | Groups 3 + 4, Candle House | 
 | 7:00 - 9:00 | Same Lab | Groups 1 + 2, Fishbowl   |
