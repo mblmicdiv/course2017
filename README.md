@@ -31,7 +31,7 @@ TA:
 | ------------- |:-------------:| :-----:|
 | 09:00      | [Tracy Teal: "Soil microbial communities: A study with metagenomics"](presentations/MBL_metagenomics.pdf)    |  Candle House |
 | 10:30 | [Titus Brown: "Shotgun metagenome assembly: how well does it work?"](presentations/2017-mbl-micdiv-assembly.pptx.pdf)   | Candle House   |
-| 1:00 - 3:00 | [Lab (Tracy): UNIX command line, scripting, and automation.]() | Groups 3 + 4, Candle House | 
+| 1:00 - 3:00 | [Lab (Tracy): UNIX command line, scripting, and automation](labs/command-line-workflows.md) | Groups 3 + 4, Candle House | 
 | 7:00 - 9:00 | Same Lab | Groups 1 + 2, Fishbowl   |
 | 6:30 | Swope Group photo |
 
