@@ -21,7 +21,7 @@ TA:
 #### <a name="25"></a> Monday 31 July 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15    | [Titus Brown: Why Sequence Genomes?](https://hackmd.io/IwQwbARgDATAJgMwLQFYAcBTFSAsHxJoQbLADMaAnAOw3U5mVxA=?both) | Candle House |
+| 09:15    | [Titus Brown: "Why Sequence Genomes?"](https://hackmd.io/IwQwbARgDATAJgMwLQFYAcBTFSAsHxJoQbLADMaAnAOw3U5mVxA=?both) | Candle House |
 | 10:30 | [Scott Dawson: Phylogenies](presentations/md2017_zenphylo.pdf)  |    Candle House |
 | 1:00 - 3:00 | [Lab: Genome annotation, gene search and BLAST, IMG, and other resources](https://github.com/mblmicdiv/TrunkRiver_amplicon_analysis) | Groups 1 + 2, Candle House |
 | 7:00 - 9:00 | Same Lab | Groups 3 + 4, Fishbowl|
@@ -29,8 +29,8 @@ TA:
 #### <a name="26"></a> Tuesday 1 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_    |  Candle House |
-| 10:30 | _Lecture_   | Candle House   |
+| 09:15      | Lecture: Tracy Teal    |  Candle House |
+| 10:30 | [Titus Brown: "Shotgun metagenome assembly: how well does it work?"](presentations/2017-mbl-micdiv-assembly.pptx.pdf)   | Candle House   |
 | 1:00 - 3:00 | [Lab: UNIX command line, scripting, and automation.]() | Groups 3 + 4, Candle House | 
 | 7:00 - 9:00 | Same Lab | Groups 1 + 2, Fishbowl   |
 | 6:30 | Swope Group photo |
