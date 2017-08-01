@@ -39,7 +39,7 @@ TA:
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:00      | [Tracy Teal: "Computing Workflows for Biologists"](presentations/MBL_computing_workflows.pdf)     |  Candle House |
-| 10:30 | _Lecture_:  | Candle House  |
+| 10:30 | Scott Dawson:  | Candle House  |
 | 1:00 - 3:00 | [Lab: Use sourmash to search and compare genomes and metagenomes; understand a bit more about k-mers]()| Groups 1 + 2, Candle House   |
 | 3:00 - 5:00 | Same Lab | Groups 3 + 4, Candle House |
 | 6:00 | 2 min students miniproject pitch presentation -Pizza | Everyone |
@@ -48,14 +48,14 @@ TA:
 #### <a name="26"></a> Thursday 3 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_:   |  Candle House |
-| 10:30 | _Lecture_:   | Candle House |
-| 13:00 | Lab: Programming in R for plotting and RNAseq analysis  | Groups 3 + 4, Candle House |
+| 09:00      | Titus Brown: RNASeq and stats intro   |  Candle House |
+| 10:30 | Scott Dawson: A Giardia transcriptome story   | Candle House |
+| 1:00 - 3:00 | Lab: Programming in R for plotting and RNAseq analysis  | Groups 3 + 4, Candle House |
 | 7:00 - 9:00 | Same Lab   | Groups 1 + 2, Fishbowl |
 
 #### <a name="26"></a> Friday 4 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_: Anvi'o for visualization     |  Candle House |
-| 10:30 | _Lecture_:    | Candle House  |
+| 09:00      | Murat Eren: Anvi'o for visualization     |  Candle House |
+| 10:30 | Titus Brown: Our data intensive future and how to plan for it   | Candle House  |
 | 1:00 - 5:00 | Miniprojects; genomic & bioinformatics consultation with Titus and Lisa | Lab   |
