@@ -21,7 +21,7 @@ TA:
 #### <a name="25"></a> Monday 31 July 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15    | [Titus Brown: "Why Sequence Genomes?"](https://hackmd.io/IwQwbARgDATAJgMwLQFYAcBTFSAsHxJoQbLADMaAnAOw3U5mVxA=?both) | Candle House |
+| 09:00    | [Titus Brown: "Why Sequence Genomes?"](https://hackmd.io/IwQwbARgDATAJgMwLQFYAcBTFSAsHxJoQbLADMaAnAOw3U5mVxA=?both) | Candle House |
 | 10:30 | [Scott Dawson: Phylogenies](presentations/md2017_zenphylo.pdf)  |    Candle House |
 | 1:00 - 3:00 | [Lab: Genome annotation, gene search and BLAST, IMG, and other resources](https://github.com/mblmicdiv/TrunkRiver_amplicon_analysis) | Groups 1 + 2, Candle House |
 | 7:00 - 9:00 | Same Lab | Groups 3 + 4, Fishbowl|
@@ -29,7 +29,7 @@ TA:
 #### <a name="26"></a> Tuesday 1 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | [Tracy Teal: "Soil microbial communities: A study with metagenomics"](presentations/MBL_metagenomics.pdf)    |  Candle House |
+| 09:00      | [Tracy Teal: "Soil microbial communities: A study with metagenomics"](presentations/MBL_metagenomics.pdf)    |  Candle House |
 | 10:30 | [Titus Brown: "Shotgun metagenome assembly: how well does it work?"](presentations/2017-mbl-micdiv-assembly.pptx.pdf)   | Candle House   |
 | 1:00 - 3:00 | [Lab: UNIX command line, scripting, and automation.]() | Groups 3 + 4, Candle House | 
 | 7:00 - 9:00 | Same Lab | Groups 1 + 2, Fishbowl   |
@@ -38,7 +38,7 @@ TA:
 #### <a name="27"></a> Wednesday 2 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_     |  Candle House |
+| 09:00      | [Tracy Teal: "Computing Workflows for Biologists"](presentations/MBL_computing_workflows.pdf)     |  Candle House |
 | 10:30 | _Lecture_:  | Candle House  |
 | 1:00 - 3:00 | [Lab: Use sourmash to search and compare genomes and metagenomes; understand a bit more about k-mers]()| Groups 1 + 2, Candle House   |
 | 3:00 - 5:00 | Same Lab | Groups 3 + 4, Candle House |
@@ -48,7 +48,7 @@ TA:
 #### <a name="26"></a> Thursday 3 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_:   |  Candle House |
+| 09:00      | _Lecture_:   |  Candle House |
 | 10:30 | _Lecture_:   | Candle House |
 | 13:00 | Lab: Programming in R for plotting and RNAseq analysis  | Groups 3 + 4, Candle House |
 | 7:00 - 9:00 | Same Lab   | Groups 1 + 2, Fishbowl |
@@ -56,6 +56,6 @@ TA:
 #### <a name="26"></a> Friday 4 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_: Anvi'o for visualization     |  Candle House |
+| 09:00      | _Lecture_: Anvi'o for visualization     |  Candle House |
 | 10:30 | _Lecture_:    | Candle House  |
 | 1:00 - 5:00 | Miniprojects; genomic & bioinformatics consultation with Titus and Lisa | Lab   |
