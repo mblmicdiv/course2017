@@ -28,12 +28,7 @@ In this lesson we'll go through an introduction to what sequencing is, learn abo
 **Goals:** Work with the FASTQ file type at the command line.
 
 **Materials:**  
-- [Revisiting navigating at the command line](http://www.datacarpentry.org/shell-genomics/01-introduction/)
-- [Revisiting the file system](http://www.datacarpentry.org/shell-genomics/02-the-filesystem/)
-- [Examining FASTQ files](http://www.datacarpentry.org/shell-genomics/04-working-with-files/)
-
-**Additional resources:**  
-- [Data Carpentry Genomics shell lesson](http://www.datacarpentry.org/shell-genomics/)
+- [Introduction to the command line](https://data-lessons.github.io/shell-genomics/)
 
 ### III. Running bioinformatics programs
 **Goals:** How to run bioinformatics programs at the command line, using FastQC as an example.
