@@ -1,5 +1,7 @@
 # Spinning up multiple Jupyter Notebooks on AWS for a tutorial
 
+(Setup instructions for [the sourmash tutorial](sourmash.md))
+
 boot an `ubuntu/images-testing/hvm-ssd/ubuntu-yakkety-daily-amd64-server-20170201 (ami-008dd060)` image, with a ~50 GB local disk and with open ports 8000-9000.
 
 Then, update software:
