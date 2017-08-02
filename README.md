@@ -40,7 +40,7 @@ TA:
 | ------------- |:-------------:| :-----:|
 | 09:00      | [Tracy Teal: "Computing Workflows for Biologists"](presentations/MBL_computing_workflows.pdf)     |  Candle House |
 | 10:30 | [Scott Dawson: Phylogenies (part 2)](presentations/md2017_zenphyloV2.pdf) | Candle House  |
-| 1:00 - 3:00 | [Lab (Titus): Use sourmash to search and compare genomes and metagenomes; understand a bit more about k-mers](./exercises/sourmash.md)| Groups 1 + 2, Candle House   |
+| 1:00 - 3:00 | [Lab (Titus): Use sourmash to search and compare genomes and metagenomes; understand a bit more about k-mers](https://hackmd.io/BwUw7ARgDAnMBsBaAhhAzAJkQFniYiwAjFAKyIjKkBmw2M2EywaQA===?view)| Groups 1 + 2, Candle House   |
 | 3:00 - 5:00 | Same Lab | Groups 3 + 4, Candle House |
 | 6:00 | 2 min students miniproject pitch presentation - Pizza! | Everyone, Fish bowl |
 | 8:00 | Termite guts at Fishbowl and lab | Everyone |
