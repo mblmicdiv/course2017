@@ -33,7 +33,6 @@ TA:
 | 10:30 | [Titus Brown: "Shotgun metagenome assembly: how well does it work?"](presentations/2017-mbl-micdiv-assembly.pptx.pdf)   | Candle House   |
 | 1:00 - 3:00 | [Lab (Tracy): UNIX command line, scripting, and automation](labs/command-line-workflows.md) | Groups 3 + 4, Candle House | 
 | 7:00 - 9:00 | Same Lab | Groups 1 + 2, Fishbowl   |
-| 6:30 | Swope Group photo |
 
 #### <a name="27"></a> Wednesday 2 August 2017
 | Time       | Activity        | Location  |
@@ -50,8 +49,8 @@ TA:
 | ------------- |:-------------:| :-----:|
 | 09:00      | Titus Brown: RNASeq and stats intro   |  Candle House |
 | 10:30 | Scott Dawson: A Giardia transcriptome story   | Candle House |
-| 1:00 - 3:00 | Lab (Tracy): Programming in R for plotting and RNAseq analysis  | Groups 3 + 4, Candle House |
-| 7:00 - 9:00 | Same Lab   | Groups 1 + 2, Fishbowl |
+| 1:00 - 3:00 | Lab (Tracy): Programming in R for plotting and RNAseq analysis  | Groups 1,2, 3 + 4, Candle House |
+| 6:30 | Swope Group photo |
 
 #### <a name="26"></a> Friday 4 August 2017
 | Time       | Activity        | Location  |
