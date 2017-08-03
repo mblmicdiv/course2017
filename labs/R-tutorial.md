@@ -15,7 +15,7 @@ For more information:
 
 ### Some (brief) community analysis in R
 
-Data file for this section: [KBS_2008-2009.txt](KBS_2008-2009.txt)
+Data file for this section: [KBS_2008_2009.txt](KBS_2008_2009.txt)
 
 R Script for this section: [micdiv-eco.R](micdiv-eco.R)
 
