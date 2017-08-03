@@ -26,5 +26,6 @@ More information on community ecology analysis:
 
 ### More materials on other types of analyses
 
+- [RNASeq analysis](http://sparta-teaching.readthedocs.io/en/latest/) - tutorial by Ben Johnson
 - [NGS course materials](https://angus.readthedocs.io/en/2017/) 
 - [EDAMAME course materials](https://github.com/edamame-course/2017-tutorials/wiki/Schedule-EDAMAME-2017)
