@@ -49,7 +49,7 @@ TA:
 | ------------- |:-------------:| :-----:|
 | 09:00      | [Titus Brown: RNASeq and stats intro](https://github.com/mblmicdiv/course2017/blob/master/presentations/2017-micdiv-rnaseq.pptx.pdf), [static Jupyter notebook simulation](https://github.com/mblmicdiv/course2017/blob/master/exercises/statistics-m-and-ms-in-trunks.ipynb) |  Candle House |
 | 10:30 | Scott Dawson: A Giardia transcriptome story   | Candle House |
-| 1:00 - 3:00 | Lab (Tracy): Programming in R for plotting and RNAseq analysis  | Groups 1,2, 3 + 4, Candle House |
+| 1:00 - 3:00 | Lab (Tracy): [Programming in R for plotting and community analysis](https://github.com/mblmicdiv/course2017/blob/master/labs/R-tutorial.md)  | Groups 1,2, 3 + 4, Candle House |
 | 6:30 | Swope Group photo |
 
 #### <a name="26"></a> Friday 4 August 2017
