@@ -47,7 +47,7 @@ TA:
 #### <a name="26"></a> Thursday 3 August 2017
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | [Titus Brown: RNASeq and stats intro](https://github.com/mblmicdiv/course2017/blob/master/exercises/statistics-m-and-ms-in-trunks.ipynb) [static Jupyter notebook simulation](https://github.com/mblmicdiv/course2017/blob/master/exercises/statistics-m-and-ms-in-trunks.ipynb) |  Candle House |
+| 09:00      | [Titus Brown: RNASeq and stats intro](https://github.com/mblmicdiv/course2017/blob/master/exercises/statistics-m-and-ms-in-trunks.ipynb), [static Jupyter notebook simulation](https://github.com/mblmicdiv/course2017/blob/master/exercises/statistics-m-and-ms-in-trunks.ipynb) |  Candle House |
 | 10:30 | Scott Dawson: A Giardia transcriptome story   | Candle House |
 | 1:00 - 3:00 | Lab (Tracy): Programming in R for plotting and RNAseq analysis  | Groups 1,2, 3 + 4, Candle House |
 | 6:30 | Swope Group photo |
