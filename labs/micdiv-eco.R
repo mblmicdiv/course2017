@@ -4,6 +4,7 @@ library(tidyr)
 library(janitor)
 
 # read in the data
+download.file("https://raw.githubusercontent.com/mblmicdiv/course2017/master/labs/KBS_2008_2009.txt", "KBS_2008_2009.txt")
 data <- read.delim("KBS_2008_2009.txt")
 
 # see what the data looks like
