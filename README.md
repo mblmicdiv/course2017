@@ -56,5 +56,5 @@ TA:
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:00      | Murat Eren: Anvi'o for visualization     |  Candle House |
-| 10:30 | Titus Brown: Our data intensive future and how to plan for it   | Candle House  |
+| 10:30 | [Titus Brown: Our data-intensive future and how to plan for it.](https://github.com/mblmicdiv/course2017/blob/master/presentations/2017-micdiv-data.pptx.pdf)   | Candle House  |
 | 1:00 - 5:00 | Miniprojects; genomic & bioinformatics consultation with Titus and Lisa | Lab   |
