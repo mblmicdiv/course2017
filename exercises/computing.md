@@ -3,6 +3,8 @@
 [Lisa Johnson](https://twitter.com/monsterbashseq)
 July 10, 2017
 
+Last week, [Dr. Tracy Teal](http://www.datacarpentry.org/people/) taught [UNIX commandline skills for automation and scripting](https://github.com/mblmicdiv/course2017/blob/master/labs/command-line-workflows.md). Today, we will apply those skills on the mbl server.
+
 By the end of today, you will:
 * be able to ssh login
 * load pre-installed software modules
@@ -259,6 +261,7 @@ Examples of successful XSEDE applications:
 
 ### Other resources:
 * Get to know your HPC admin at your local institution! They're friendly, and like getting to know the HPC users!
+* http://www.datacarpentry.org/cloud-genomics/discuss/
 * http://2017-dibsi-metagenomics.readthedocs.io/en/latest/
 * http://angus.readthedocs.io/en/2017/
 * http://ivory.idyll.org/dibsi/
