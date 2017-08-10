@@ -9,6 +9,8 @@ By the end of today, you will:
 * be able to ssh login
 * load pre-installed software modules
 * install software in your local directory
+* transfer files with `scp` onto and off of a server
+* download files from the internet with `wget` and `curl`
 * know how to run some processes
 
 ## Login
