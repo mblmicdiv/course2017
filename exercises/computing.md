@@ -8,7 +8,7 @@ By the end of today, you will:
 * load pre-installed software modules
 * install software in your local directory
 * know how to run some processes
-* 
+
 ## Login
 You have accounts on the mbl server!
 
