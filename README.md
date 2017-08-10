@@ -58,3 +58,12 @@ TA:
 | 09:00      | [Murat Eren: Anvi'o for visualization](https://github.com/mblmicdiv/course2017/blob/master/presentations/meren-micro-div-2017.pdf)   |  Candle House |
 | 10:30 | [Titus Brown: Our data-intensive future and how to plan for it.](https://github.com/mblmicdiv/course2017/blob/master/presentations/2017-micdiv-data.pptx.pdf)   | Candle House  |
 | 1:00 - 5:00 | Miniprojects; genomic & bioinformatics consultation with Titus and Lisa | Lab   |
+
+
+Extra:
+
+Thursday 10 August 2017
+
+| Time       | Activity        | Location  |
+| ------------- |:-------------:| :-----:|
+| 3:00 - 4:00 | [Lisa Johnson: Using External Compute Resources for Analyzing Large Sequencing Data Files](https://github.com/mblmicdiv/course2017/blob/master/exercises/computing.md) | Candle House   |
