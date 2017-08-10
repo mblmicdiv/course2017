@@ -99,9 +99,8 @@ wget https://s3.amazonaws.com/ngs2016/ectocooler_all_2D.fastq
 ```
 
 Download metagenome assembly files from Cedar Swamp or Trunk River:
-
-[Cedar Swamp, OSF (2017)](https://osf.io/y2n4z/)
-[Trunk River, OSF (2015)](https://osf.io/9bytm/)
+* [Cedar Swamp, OSF (2017)](https://osf.io/y2n4z/)
+* [Trunk River, OSF (2015)](https://osf.io/9bytm/)
 
 ```
 curl -L -o trunk_assembly.500.fa.gz https://osf.io/tnc8h/download
@@ -120,7 +119,6 @@ What happens when you type:
 megahit
 ```
 ???
-
 
 Download some data:
 ```
