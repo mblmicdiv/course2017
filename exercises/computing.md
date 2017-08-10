@@ -80,6 +80,23 @@ This is the format for secure copy protocol (scp):
 scp origin destination
 ```
 
+If your files are located locally and you want to transfer to the server, use this:
+```
+scp /path/to/file/origin ljcohen@class.mbl.edu:/path/to/file/destination/
+```
+
+Or, if your files are located on the server and you want to download locally, use this:
+```
+scp ljcohen@class.mbl.edu:/path/to/file/destination/ /path/to/file/origin
+```
+
+If you want to transfer an entire directory, use the `-r` argument to recursively copy. Like this:
+```
+scp -r ljcohen@class.mbl.edu:/path/to/file/destination/dir /path/to/file/origin/
+```
+
+
+
 Let's get some files onto and off of the server. Let's grab a practice file:
 
 Download the Ectocoolest genome annoations to your local machine (in your directory of choice, don't forget where you are located!):
