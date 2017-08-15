@@ -56,8 +56,8 @@ Enter this information
 
 ```
 Host class??
-        User chnguyen
-        ProxyCommand ssh ljcohen@class.mbl.edu -W %h:%p
+        User lcohen
+        ProxyCommand ssh lcohen@class.mbl.edu -W %h:%p
 ```
 
 Otherwise, when you login to `@class.mbl.edu`, you will secondarily have to login to `ssh class10`, or `class08`, etc.
